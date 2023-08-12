@@ -8,15 +8,15 @@ In order to setup the project
 1. Clone the repository from GitHub to the local machine.
 2. Open your terminal
 3. Run the command 
-    pip install requrirement.txt 
+    - pip install requrirement.txt 
 4. Change the directory to the frontend
-    cd frontend
+    - cd frontend
 5. Run the command to install all the required dependencies
-    npm install
+    - npm install
 6. Build the project using 
-    npm build
+    - npm build
 7. To run the python server, go to home directory
-    python manage.py runserver
+    - python manage.py runserver
 
 ![The initial screen which access the user location](image.png)
 The initial screen which access the user location
